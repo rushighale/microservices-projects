@@ -3,7 +3,10 @@
 ### Microservices in one video by java tichie
 payment service </br>
 order service</br>
-clodu-gateway,service-registry,hystrix-dashboard,config-server
+clodu-gateway :actuator,edureka client,gateway,hystrix                                  </br>
+service-registry              </br>
+hystrix-dashboard       </br>
+config-server            </br>
 
 
 #### application.yml in cloud-gateway
@@ -49,6 +52,6 @@ management:
         
         
 # if request is not sending any response , then after five second it redirect  
+   ```
    
-   
-   
+   ### 
