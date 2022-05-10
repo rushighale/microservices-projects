@@ -44,8 +44,7 @@ management:
         include: hystrix.stream
         
 
-    
-    ```
+   
    
         
         
