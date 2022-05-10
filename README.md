@@ -54,4 +54,4 @@ management:
 # if request is not sending any response , then after five second it redirect  
    ```
    
-   ### developed by Rushieksh
+   ### developed by Rushikesh
