@@ -7,6 +7,8 @@ clodu-gateway :actuator,edureka client,gateway,hystrix                          
 service-registry              </br>
 hystrix-dashboard       </br>
 config-server            </br>
+
+
 #### application.yml in order-service
 
 ```
@@ -23,7 +25,19 @@ eureka:
     hostname: localhost
 ```
 
+#### application.yml in service registry
+```
+eureka:
+ client:
+    register-with-eureka: true
+    fetch-registry: true
+ server
+     port:8761
+  /*   service-url:
+       defaultZone: http://localhost:8761/eureka/    */
+     
 
+```
 
 #### application.yml in cloud-gateway
 ```
