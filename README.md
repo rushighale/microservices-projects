@@ -7,6 +7,11 @@ clodu-gateway :actuator,edureka client,gateway,hystrix                          
 service-registry              </br>
 hystrix-dashboard       </br>
 config-server            </br>
+#### application.yml in order-service
+
+```
+
+
 
 
 #### application.yml in cloud-gateway
