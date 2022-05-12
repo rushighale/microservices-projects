@@ -16,6 +16,10 @@ spring:
   application:
     name: GATEWAY-SERVICE
     
+eureka:
+  instance:
+    hostname: localhost
+    
     
   cloud:
     gateway:
