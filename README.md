@@ -8,6 +8,8 @@ service-registry              </br>
 hystrix-dashboard       </br>
 config-server            </br>
 
+Rest call in order service
+
 
 #### application.yml in order-service
 
