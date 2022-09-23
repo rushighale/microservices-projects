@@ -1,6 +1,7 @@
 # microservices-projects
 
 ### Microservices in one video by java tichie
+## we used association mapping in this project
 payment service </br>
 order service</br>
 clodu-gateway : dependancies[actuator,edureka client,gateway,hystrix ]                               </br>
